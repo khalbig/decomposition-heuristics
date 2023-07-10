@@ -2,6 +2,8 @@
 
 This repository provides supplementary material on the paper *Exploiting user-supplied Decompositions inside Heuristics* by K. Halbig, A. Göß and D. Weninger.
 
+A preprint is available at [Optimization Online][1].
+
 ## Installation
 
 To use the presented heuristics first download the [source code of SCIP][2]. We recommend to download the SCIP Optimization suite since you need an LP solver in addition.
@@ -35,6 +37,27 @@ To get the test set `MIPLIB` download the MIPLIB 2017 benchmark set, which can b
 
 Test set `CELLPHONE` is provided by our partner SAP in repository [ibp-sop-benchmarks-milp-cellphoneco][6] in folders `public_mps` and `public_dec`. 
 
+## How to cite
+
+If you use data of this repository in your research, please consider citing the following paper:
+
+> K. Halbig, A. Göß and D. Weninger (2023).
+> Exploiting user-supplied Decompositions inside Heuristics.
+> https://optimization-online.org/?p=23386
+
+Or, using the following BibTeX entry:
+
+```bibtex
+@misc{Halbig_DecHeur_2023,
+	author = {Halbig, Katrin and Göß, Adrian and Weninger, Dieter},
+	title = {Exploiting user-supplied Decompositions inside Heuristics},
+	month = {June},
+	year = {2023},
+	url = {https://optimization-online.org/?p=23386}
+}
+```
+
+[1]: https://optimization-online.org/?p=23386
 
 [2]: https://www.scipopt.org/index.php#download
 
