@@ -41,18 +41,18 @@ Test set `CELLPHONE` is provided by our partner SAP in repository [ibp-sop-bench
 
 If you use data of this repository in your research, please consider citing the following paper:
 
-> K. Halbig, A. Göß and D. Weninger (2023).
+> K. Halbig, A. Göß and D. Weninger (2024).
 > Exploiting user-supplied Decompositions inside Heuristics.
 > https://optimization-online.org/?p=23386
 
 Or, using the following BibTeX entry:
 
 ```bibtex
-@misc{Halbig_DecHeur_2023,
+@misc{Halbig_DecHeur_2024,
 	author = {Halbig, Katrin and Göß, Adrian and Weninger, Dieter},
 	title = {Exploiting user-supplied Decompositions inside Heuristics},
-	month = {June},
-	year = {2023},
+	month = {May},
+	year = {2024},
 	url = {https://optimization-online.org/?p=23386}
 }
 ```
